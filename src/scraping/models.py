@@ -1,4 +1,4 @@
-import jsonfield as jsonfield
+import jsonfield
 from django.db import models
 
 from scraping.utils import from_cyrillic_to_eng
